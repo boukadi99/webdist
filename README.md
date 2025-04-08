@@ -1,1 +1,1 @@
-# webdist
+This project showcases a microservices architecture built with Spring Boot, featuring a Service Discovery Server (Eureka) and an API Gateway. Each service is independently deployable and registered to Eureka, allowing dynamic service discovery and communication. The Gateway acts as a single point of entry, handling routing and request forwarding to the appropriate microservices. The project follows clean code practices, is fully versioned with Git, and includes thorough documentation. 
