@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\tn",
+    "\\src\\main\\java\\tn\\esprit",
+    "\\src\\main\\java\\tn\\esprit\\spring",
+    "\\src\\main\\java\\tn\\esprit\\spring\\entities",
+    "\\src\\main\\resources\\static",
+    "\\src\\test"
+  ],
+  "SelectedNode": "\\src\\main\\java\\tn\\esprit\\spring\\entities\\Action.java",
+  "PreviewInSolutionExplorer": false
+}
